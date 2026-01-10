@@ -12,5 +12,5 @@ Me centro en proyectos prácticos y realistas, aplicando buenas prácticas, vali
 - Git & GitHub
 
 ## 📌 Proyectos destacados
-- **VetPlus** – Sistema de gestión de citas para clínica veterinaria (full-stack)
-- **Pokédex** – Aplicación web consumiendo APIs externas
+- **VetPlus** – Pagina Web y sistema de gestión de citas para clínica veterinaria (full-stack)
+- **Pokédex** – Aplicación web para crear tus propios Pokemon.

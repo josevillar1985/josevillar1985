@@ -11,9 +11,9 @@ Desarrollador **Full Stack** con fuerte enfoque en la creación de soluciones es
 
 **Backend:** `Java` `Spring Boot` `Spring Security` `Spring Mail` `Hibernate` `JWT` `PostgreSQL`
 
-**Frontend:** `Angular` `TypeScript` `RxJS` `Tailwind CSS` `Angular Material`
+**Frontend:** `Angular` `TypeScript` `Vue` `Vuetify` `CSS` `HTML` 
 
-**Herramientas:** `Docker` `Git` `GitHub Actions` `RESTful APIs` `Postman`
+**Herramientas:** `Docker` `GitHub` `Postman` `n8n`
 
 ---
 
@@ -22,15 +22,15 @@ Desarrollador **Full Stack** con fuerte enfoque en la creación de soluciones es
 #### 💼 **Candidature Manager (ATS)** | Full Stack
 *Sistema integral para el seguimiento y automatización de procesos de selección.*
 - **Automatización:** Motor de envío de correos electrónicos automáticos mediante eventos de cambio de estado.
-- **Trazabilidad:** Historial completo de movimientos por candidatura (Logs de auditoría).
+- **Trazabilidad:** Historial completo de movimientos por candidatura.
 - **Frontend:** Gestión de estados dinámicos en Angular y paneles de control con filtrado avanzado.
-- **Tecnologías:** Spring Boot, Angular, Spring Mail, PostgreSQL.
+- **Tecnologías:** Spring Boot, Angular, n8n, PostgreSQL.
 
 #### 🏥 **VetPlus** | Management System
 *Plataforma de gestión clínica para centros veterinarios.*
-- **Arquitectura:** Diseño de API REST segura bajo estándares JWT.
-- **Gestión:** Módulo completo de citas médicas, expedientes clínicos y control de inventario.
-- **Tecnologías:** Java, Spring Boot, MySQL, Frontend dinámico.
+- **Arquitectura:** Diseño de API REST.
+- **Gestión:** Módulo completo de citas y expedientes clínicos.
+- **Tecnologías:** Java, Spring Boot, MySQL.
 
 ---
 

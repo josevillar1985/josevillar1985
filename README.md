@@ -30,14 +30,6 @@ Desarrollador **Full Stack** con mentalidad analítica. Especializado en la arqu
 - **Tech:** Vue 3 (Composition API) + TypeScript.
 - **Focus:** Optimización de renderizado, filtrado dinámico y persistencia en LocalStorage.
 
----
-
-### 📊 GitHub Stats
-![Stats de Jose](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=tokyonight&hide_border=true)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ### 📫 Hablemos
 - 📧 **Email:** [Tu correo aquí (protegido por form en mi web)]
 - 💼 **LinkedIn:** [jose-tu-perfil](https://linkedin.com/in/tu-usuario)

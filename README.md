@@ -1,37 +1,48 @@
-# 👋 Hola, soy Jose | Full Stack Developer
+Hola, soy Jose | Full Stack Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF3B3B?style=for-the-badge&logo=polywork&logoColor=white)](https://tu-web.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josevillar1985/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF3B3B?style=for-the-badge&logo=polywork&logoColor=white)](https://josevillar.com/)
 
-Desarrollador **Full Stack** con mentalidad analítica. Especializado en la arquitectura de servicios distribuidos con **Spring Boot** y el desarrollo de interfaces reactivas con **Vue.js / Angular**. Mi enfoque: código limpio, escalabilidad y lógica de negocio sólida.
+Desarrollador **Full Stack** con fuerte enfoque en la creación de soluciones escalables y automatización de procesos. Especializado en arquitecturas robustas con **Spring Boot** y aplicaciones SPA de alto rendimiento con **Angular**.
 
 ---
 
-### 🚀 Tecnologías & Herramientas
+### 🚀 Stack Tecnológico
 
-**Backend** `Java` `Spring Boot` `Spring Security` `Hibernate` `JWT` `Rest API`
+**Backend:** `Java` `Spring Boot` `Spring Security` `Spring Mail` `Hibernate` `JWT` `PostgreSQL`
 
-**Frontend** `Vue.js` `Angular` `TypeScript` `Vuetify` `Tailwind CSS`
+**Frontend:** `Angular` `TypeScript` `RxJS` `Tailwind CSS` `Angular Material`
 
-**Data & DevOps** `PostgreSQL` `MySQL` `Docker` `Git` `GitHub Actions`
+**Herramientas:** `Docker` `Git` `GitHub Actions` `RESTful APIs` `Postman`
 
 ---
 
 ### 📌 Proyectos Destacados
 
-#### 🏥 **VetPlus** | Full Stack System
-*Plataforma integral para la gestión de centros veterinarios.*
-- **Core:** Implementación de arquitectura hexagonal en Spring Boot.
-- **UI/UX:** Dashboard administrativo desarrollado en Vue.js con Vuetify.
-- **Key Feature:** Gestión de citas en tiempo real y expedientes clínicos encriptados.
+#### 💼 **Candidature Manager (ATS)** | Full Stack
+*Sistema integral para el seguimiento y automatización de procesos de selección.*
+- **Automatización:** Motor de envío de correos electrónicos automáticos mediante eventos de cambio de estado.
+- **Trazabilidad:** Historial completo de movimientos por candidatura (Logs de auditoría).
+- **Frontend:** Gestión de estados dinámicos en Angular y paneles de control con filtrado avanzado.
+- **Tecnologías:** Spring Boot, Angular, Spring Mail, PostgreSQL.
 
-#### 🎮 **PokéManager** | Logic & API
-*Aplicación avanzada de gestión de entidades basada en la PokeAPI.*
-- **Tech:** Vue 3 (Composition API) + TypeScript.
-- **Focus:** Optimización de renderizado, filtrado dinámico y persistencia en LocalStorage.
+#### 🏥 **VetPlus** | Management System
+*Plataforma de gestión clínica para centros veterinarios.*
+- **Arquitectura:** Diseño de API REST segura bajo estándares JWT.
+- **Gestión:** Módulo completo de citas médicas, expedientes clínicos y control de inventario.
+- **Tecnologías:** Java, Spring Boot, MySQL, Frontend dinámico.
 
-### 📫 Hablemos
-- 📧 **Email:** [Tu correo aquí (protegido por form en mi web)]
-- 💼 **LinkedIn:** [jose-tu-perfil](https://linkedin.com/in/tu-usuario)
+---
 
-*"Code is like humor. When you have to explain it, it’s bad."*
+### 📊 Mis Estadísticas
+![Stats de Jose](https://github-readme-stats.vercel.app/api?username=josevillar1985&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=josevillar1985&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+### 📫 Contacto
+- **LinkedIn:** [josevillar1985](https://www.linkedin.com/in/josevillar1985/)
+- **Web:** [josevillar.com](https://josevillar.com/)
+
+*"Transformando código en herramientas de valor real."*

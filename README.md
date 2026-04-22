@@ -9,7 +9,7 @@ Desarrollador **Full Stack** con fuerte enfoque en la creación de soluciones es
 
 ### 🚀 Stack Tecnológico
 
-**Backend:** `Java` `Spring Boot` `Spring Security` `Spring Mail` `Hibernate` `JWT` `PostgreSQL`
+**Backend:** `Java` `Spring Boot` `PostgreSQL`
 
 **Frontend:** `Angular` `TypeScript` `Vue` `Vuetify` `CSS` `HTML` 
 
